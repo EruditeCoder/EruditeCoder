@@ -4,7 +4,7 @@
 
 [![Linkedin: aleman-marcos](https://img.shields.io/badge/-Marcos_Aleman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleman-marcos/)](https://www.linkedin.com/in/aleman-marcos/)
 [![GitHub EruditeCoder](https://img.shields.io/github/followers/EruditeCoder?label=follow&style=social)](https://github.com/EruditeCoder)
-<br><br>
+<br>
 
 <h3> A bit about me: <h3>
 
