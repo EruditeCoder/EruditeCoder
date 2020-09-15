@@ -56,3 +56,4 @@ const aleman = {
 - Linux administration
 - Data structures & algorithms
 - Agile frameworks
+- Network security
