@@ -1,9 +1,6 @@
 <h2> Greetings, I'm Marcos 👋 </h2>
 
-<br>
-
 <h3>Aspiring Software Developer</h3>
-<br>
 
 [![Linkedin: aleman-marcos](https://img.shields.io/badge/-Marcos_Aleman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleman-marcos/)](https://www.linkedin.com/in/aleman-marcos/)
 [![GitHub EruditeCoder](https://img.shields.io/github/followers/EruditeCoder?label=follow&style=social)](https://github.com/EruditeCoder)
@@ -51,8 +48,6 @@ const aleman = {
     - Using React and TailwindCSS
 - Quirky TTC (private): A simple 1v1 tic-tac-toe game
     - Using React
-
-<br>
 
 <h3> I’m currently improving my skills in 🧠 </h3>
 
