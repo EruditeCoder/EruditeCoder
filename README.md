@@ -1,6 +1,6 @@
 <h2> Greetings, I'm Marcos 👋 </h2>
 
-<h3>Aspiring Software Developer</h3>
+<h3>An aspiring Software Developer</h3>
 
 [![Linkedin: aleman-marcos](https://img.shields.io/badge/-Marcos_Aleman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleman-marcos/)](https://www.linkedin.com/in/aleman-marcos/)
 [![GitHub EruditeCoder](https://img.shields.io/github/followers/EruditeCoder?label=follow&style=social)](https://github.com/EruditeCoder)
