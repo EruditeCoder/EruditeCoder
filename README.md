@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings, I'm Marcos 👋
+
+<em>Aspiring Software Developer</em>
 
 <!--
 **EruditeCoder/EruditeCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
