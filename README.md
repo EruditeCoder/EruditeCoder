@@ -44,7 +44,7 @@ const aleman = {
 
 - [MarketAnalysisDash](https://github.com/EruditeCoder/MarketAnalysisDash): Market analysis dashboard to give traders a more complete overview of the factors that affect the entire market
     - Using React, NextJS, MongoDB, and Redux
-- [Portfolio](https://github.com/EruditeCoder/portfolio): My personal portfolio site
+- Portfolio (private): My personal portfolio site
     - Using React and TailwindCSS
 - Quirky TTC (private): A simple 1v1 tic-tac-toe game
     - Using React
