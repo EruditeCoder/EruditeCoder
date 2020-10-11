@@ -33,7 +33,7 @@ const aleman = {
         }
     },
     tools: ["Azure", "Linux", "Docker"],
-    interests: ["Philosophy", "Meditation", "Traveling", "Personal finance & economics"],
+    interests: ["Philosophy", "Meditation", "Traveling", "Economics"],
     fun_fact: "The mitochondria is the powerhouse of the cell",
     email: "marcosaleman.developer@gmail.com"
 }
@@ -44,7 +44,7 @@ const aleman = {
 
 - [MarketAnalysisDash](https://github.com/EruditeCoder/MarketAnalysisDash): Market analysis dashboard to give traders a more complete overview of the factors that affect the entire market
     - Using React, NextJS, MongoDB, and Redux
-- Portfolio (private): My personal portfolio site
+- [Portfolio (basic)](https://github.com/EruditeCoder/portfolio): My personal portfolio site
     - Using React and TailwindCSS
 - Quirky TTC (private): A simple 1v1 tic-tac-toe game
     - Using React
