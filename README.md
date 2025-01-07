@@ -41,4 +41,4 @@
 
 ---
 
-🚀 Send me an email or connect with me on [LinkedIn](https://www.linkedin.com/in/aleman-marcos/) to discuss how I can contribute to your next big idea!
+🚀 Send me an [email](mailto:marcosaleman.developer@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aleman-marcos/) to discuss how I can contribute to your next big idea!
