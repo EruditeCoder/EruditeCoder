@@ -27,7 +27,7 @@
 - **Technologies**: AWS Lambda, DynamoDB, DynamoDB Streams, S3, EventBridge, Step Functions, Serverless Framework.
 - **Impact**: Reduced fraud chargebacks by 80% and enhanced user payment experience and confidence.
 
-### **3. Animal Shelter Web App @ [Fairy Tails Rescue](https://fairytailsdogrescue.org/) (2016)**
+### **3. Animal Shelter Web App @ [Fairy Tails Rescue](https://fairytailsdogrescue.org/) (2017)**
 - **Description**: Volunteered and built an entire fullstack web application end to end for pet adoption, including admin dashboards and integrations with public pet listings.
 - **Technologies**: Python, Django, PostgreSQL, JavaScript.
 - **Impact**: Boosted website traffic by 300% and increased year over year adoptions by 40%.
