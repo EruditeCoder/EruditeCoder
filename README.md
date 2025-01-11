@@ -11,6 +11,7 @@
 - **Programming Languages**: JavaScript (TypeScript, Node.js, React, Next.js), Python (Flask, Django), Java (Spring, J2EE), C# (.NET Core, .NET), PHP (Laravel)
 - **Cloud Technologies**: Docker, AWS (Lambda, S3, DynamoDB, RDS, API Gateway, ECS, Step Functions, EventBridge, SNS, SQS, RDS, Cognito), Kubernetes, CI/CD, Serverless Framework, Gitlab CI, CircleCI
 - **Database Systems**: PostgreSQL, DynamoDB, MongoDB, MySQL
+- **AI & LLMs**: Natural Language Processing (NLP), MLflow, GPT, BERT, OpenAI embeddings
 - **Networking**: OSPF, EIGRP, BGP, VTP, STP, VLAN, NAT, EtherChannel, ACLs, MPLS, TCP/IP
 
 ---
@@ -18,7 +19,7 @@
 ## 📚 Featured Real Projects
 
 ### **1. Fantasy Leagues @ [Kolex](https://kings-league.kolex.gg/) (2023)**
-- **Description**: Added custom fantasy leagues and logic that calculated probabilities based on card states in conjunction with real game data to simulate a realistic win/loss ratio.
+- **Description**: Added custom fantasy leagues and logic that utilized large language models (LLMs) for analyzing and interpreting game rules, generated embeddings to represent card states and historical game data, and calculated probabilities to simulate realistic win/loss ratios using AI-driven predictive modeling.
 - **Technologies**: Docker, AWS Lambda, PostgreSQL, S3.
 - **Impact**: Increased user engagement through precise tracking and targeted advertising systems.
 
