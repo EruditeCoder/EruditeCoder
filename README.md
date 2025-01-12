@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🌟 **I'm a self-driven Software Engineer with 6+ years of experience** specializing in backend development, cloud computing, AI/ML/LLMs, and system & software design. Excelling in thinking about problems in different dimensions.
+🌟 **I'm a self-driven Software Engineer with 6+ years of experience** specializing in backend development, cloud computing, AI/ML/LLMs/GenAI, and system & software design. Excelling in thinking about problems in different dimensions.
 
 📍🌴 Based in Florida | ✉️ [Email Me](mailto:marcosaleman.developer@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/aleman-marcos/)
 
