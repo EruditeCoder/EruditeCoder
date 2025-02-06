@@ -17,7 +17,7 @@
 
 ## 📚 Featured Real Projects
 
-### **1. Fantasy Leagues @ [Kolex](https://kings-league.kolex.gg/) (2023)**
+### **1. Fantasy Leagues @ [Kolex](https://kings-league.kolex.gg/) (2024)**
 - **Description**: Added custom fantasy leagues and logic that utilized large language models (LLMs) for analyzing and interpreting game rules, generated embeddings to represent card states and historical game data, and calculated probabilities to simulate realistic win/loss ratios using AI-driven predictive modeling.
 - **Technologies**: Docker, AWS Lambda, PostgreSQL, S3.
 - **Impact**: Increased user engagement through precise tracking and targeted advertising systems.
