@@ -22,7 +22,7 @@
 - **Technologies**: Docker, AWS Lambda, PostgreSQL, S3.
 - **Impact**: Increased user engagement through precise tracking and targeted advertising systems.
 
-### **2. Event-Driven Payment Processing System @ [EZCORP](https://www.ezplus.com/) (2021)**
+### **2. Event-Driven Payment Processing System @ [EZCORP](https://www.ezplus.com/) (2022)**
 - **Description**: Architected an event-driven payment processing system with 3DS in a fintech banking application.
 - **Technologies**: AWS Lambda, DynamoDB, DynamoDB Streams, S3, EventBridge, Step Functions, Serverless Framework.
 - **Impact**: Reduced fraud chargebacks by 80% and enhanced user payment experience and confidence.
