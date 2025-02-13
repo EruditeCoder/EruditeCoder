@@ -9,8 +9,8 @@
 ## 🛠️ Technical Skills
 
 - **Programming Languages**: JavaScript (TypeScript, Node.js, React, Next.js), Python (Flask, Django, PyTorch, TensorFlow), Java (Spring, J2EE), Golang, C# (.NET Core, .NET), PHP (Laravel)
-- **Cloud Technologies**: Docker, AWS (Lambda, S3, DynamoDB, RDS, API Gateway, ECS, Step Functions, EventBridge, SNS, SQS, RDS, Cognito), Kubernetes, CI/CD, Serverless Framework, Gitlab CI, CircleCI
-- **Database Systems**: PostgreSQL, DynamoDB, MongoDB, MySQL
+- **Cloud Technologies**: Docker, AWS (Lambda, S3, DynamoDB, RDS, API Gateway, ECS, Step Functions, EventBridge, SNS, SQS, RDS, Cognito, ElasticSearch), Kubernetes, CI/CD, Serverless Framework, Gitlab CI, CircleCI
+- **Database Systems**: PostgreSQL, DynamoDB, MongoDB, MySQL, Neo4j
 - **AI/ML/LLM/GenAI**: Natural Language Processing (NLP), MLflow, GPT, BERT, OpenAI embeddings, TensorFlow, PyTorch
 
 ---
