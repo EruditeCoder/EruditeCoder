@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🌟 **I'm a self-driven Software Engineer with 7+ years of experience** specializing in fullstack development, cloud computing, AI/ML/LLMs/GenAI, and system & software design. Excelling in thinking about problems in different dimensions.
+🌟 **Software Engineer and problem solver with 7+ years of experience** in fullstack development, cloud computing, and system & software design
 
 📍🌴 Based in Florida | ✉️ [Email Me](mailto:marcosaleman.developer@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/aleman-marcos/)
 
