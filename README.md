@@ -8,10 +8,9 @@
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages**: Golang, JavaScript (TypeScript, Node.js, React, Next.js), Python (Flask, Django, PyTorch, TensorFlow), Java (Spring, J2EE)
-- **Cloud Technologies**: Docker, AWS (Lambda, S3, DynamoDB, RDS, API Gateway, ECS, Step Functions, EventBridge, SNS, SQS, RDS, Cognito, ElasticSearch), Kubernetes, CI/CD, Serverless Framework, Gitlab CI, CircleCI
+- **Programming Languages**: Golang (Gin, Goroutines), JavaScript (TypeScript, Node.js, React, Next.js, Remix), Python (FastAPI, Flask, Django), Java (Spring Boot)
+- **System Technologies**: Docker, AWS (Lambda, S3, DynamoDB, RDS, API Gateway, ECS, Step Functions, EventBridge, SNS, SQS, RDS, Cognito, ElasticSearch, CDK), Kubernetes, Docker Swarm
 - **Database Systems**: PostgreSQL, DynamoDB, MongoDB, MySQL, Neo4j
-- **AI/ML/LLM/GenAI**: Natural Language Processing (NLP), MLflow, GPT, BERT, OpenAI embeddings, TensorFlow, PyTorch
 
 ---
 
@@ -31,13 +30,6 @@
 - **Description**: Volunteered and built an entire fullstack web application end to end for pet adoption, including admin dashboards and integrations with public pet listings.
 - **Technologies**: Python, Django, PostgreSQL, JavaScript.
 - **Impact**: Boosted website traffic by 300% and increased year over year adoptions by 40%.
-
----
-
-## 📜 Certifications
-- **AWS Certified Developer - Associate (2021)**
-- **Cisco CCNA R&S**
-- **CompTIA A+, Network+, Security+**
 
 ---
 
