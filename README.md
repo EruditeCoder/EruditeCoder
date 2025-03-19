@@ -14,23 +14,17 @@
 
 ---
 
-## 📚 Featured Real Projects
+## 📚 Real Projects (where I've made big contributions)
 
 ### **1. Fantasy Leagues @ [Kolex](https://kings-league.kolex.gg/) (2024)**
-- **Description**: Added custom fantasy leagues and logic that utilized large language models (LLMs) for analyzing and interpreting game rules, generated embeddings to represent card states and historical game data, and calculated probabilities to simulate realistic win/loss ratios using AI-driven predictive modeling.
+- **Description**: Added custom fantasy leagues and calculated probabilities to simulate realistic win/loss ratios.
 - **Technologies**: Docker, AWS Lambda, PostgreSQL, S3.
-- **Impact**: Increased user engagement which increased profits.
 
 ### **2. Event-Driven Payment Processing System @ [EZCORP](https://www.ezplus.com/) (2022)**
-- **Description**: Architected an event-driven payment processing system with 3DS in a fintech banking application.
-- **Technologies**: AWS Lambda, DynamoDB, DynamoDB Streams, S3, EventBridge, Step Functions, Serverless Framework.
+- **Description**: Implemented anti-fraud with 3DS/Fiserv in an event-driven payment processing system for a banking application.
+- **Technologies**: AWS Lambda, DynamoDB (Streams), EventBridge, Step Functions, Serverless Framework, S3.
 - **Impact**: Reduced fraud chargebacks by 80% and enhanced user payment experience and confidence.
-
-### **3. Animal Shelter Web App @ [Fairy Tails Rescue](https://fairytailsdogrescue.org/) (2017)**
-- **Description**: Volunteered and built an entire fullstack web application end to end for pet adoption, including admin dashboards and integrations with public pet listings.
-- **Technologies**: Python, Django, PostgreSQL, JavaScript.
-- **Impact**: Boosted website traffic by 300% and increased year over year adoptions by 40%.
 
 ---
 
-🚀 Send me an [email](mailto:marcosaleman.developer@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aleman-marcos/) to discuss how I can contribute to your next big idea!
+🚀 Send me an [email](mailto:marcosaleman.developer@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aleman-marcos/)!
