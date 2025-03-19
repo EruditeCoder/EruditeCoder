@@ -9,8 +9,7 @@
 ## 🛠️ Technical Skills
 
 - **Programming Languages**: Golang (Gin, Goroutines), JavaScript (TypeScript, Node.js, React, Next.js, Remix), Python (FastAPI, Flask, Django), Java (Spring Boot)
-- **System Technologies**: Docker, AWS (Lambda, S3, DynamoDB, RDS, API Gateway, ECS, Step Functions, EventBridge, SNS, SQS, RDS, Cognito, ElasticSearch, CDK), Kubernetes, Docker Swarm
-- **Database Systems**: PostgreSQL, DynamoDB, MongoDB, MySQL, Neo4j
+- **System Technologies**: Docker, AWS (Lambda, S3, DynamoDB, RDS, API Gateway, ECS, Step Functions, EventBridge, SNS, SQS, RDS, Cognito, ElasticSearch, CDK), Kubernetes, Docker Swarm, PostgreSQL, DynamoDB, MongoDB, MySQL
 
 ---
 
