@@ -15,11 +15,11 @@
 
 ## 📚 Real Projects (where I've made big contributions)
 
-### **1. Fantasy Leagues @ [Kolex](https://kings-league.kolex.gg/) (2024)**
+#### **1. Fantasy Leagues @ [Kolex](https://kings-league.kolex.gg/) (2024)**
 - **Description**: Added custom fantasy leagues and calculated probabilities to simulate realistic win/loss ratios.
 - **Technologies**: Docker, AWS Lambda, PostgreSQL, S3.
 
-### **2. Event-Driven Payment Processing System @ [EZCORP](https://www.ezplus.com/) (2022)**
+#### **2. Event-Driven Payment Processing System @ [EZCORP](https://www.ezplus.com/) (2022)**
 - **Description**: Implemented anti-fraud with 3DS/Fiserv in an event-driven payment processing system for a banking application.
 - **Technologies**: AWS Lambda, DynamoDB (Streams), EventBridge, Step Functions, Serverless Framework, S3.
 - **Impact**: Reduced fraud chargebacks by 80% and enhanced user payment experience and confidence.
